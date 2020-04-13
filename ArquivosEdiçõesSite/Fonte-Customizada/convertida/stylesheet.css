@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'HammerKeys';
+    src: url('HammerKeys.woff2') format('woff2'),
+        url('HammerKeys.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Road Rage';
+    src: url('RoadRage.woff2') format('woff2'),
+        url('RoadRage.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
